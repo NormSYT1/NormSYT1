@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Seyit
-- 👀 I’m interested in footbal,computer games,writing code..
+- 👀 I’m interested in footbal,doing sport,computer games,writing code..
 - 🌱 I’m currently learning C# and Unity.
 - I want to be a game developer.
 - 💞️ I’m looking to collaborate to develop games
