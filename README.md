@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Seyit
+- 👋 Hi, 
 - 👀 I’m interested in doing sport,computer games,writing code..
 - 🌱 I’m currently learning C# and Unity.
-- I worked at a CRM company
-- I want to be a game developer.
 - 💞️ I’m looking to collaborate to develop games
 - 📫 How to reach me seyitalashan123@gmail.com
 
